@@ -4,3 +4,12 @@ langchain-openai
 python-dotenv
 langchain-mistralai
 langchain-community
+langgraph
+langchain-google-genai
+langchain-groq
+faiss-cpu
+tiktoken
+fastapi
+uvicorn
+requests
+langchain_huggingface
